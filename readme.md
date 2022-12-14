@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/GitHub%25-orange">
+  <img alt="HTML" src="https://img.shields.io/badge/Git-and-GitHub25-orange">
  
   <br>
   
