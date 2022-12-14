@@ -16,7 +16,7 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório do curso de git e github iniciante que fiz.
+Este é um repositório do curso de git e github para iniciante que fiz.
 
 ---
 
