@@ -1,9 +1,32 @@
-# Git Course
+<h1 align="center">
+ Curso De Git e GitHub para iniciantes
+</h1>
 
-Este é um repositorio teste para ensinar como o git funciona.
+<p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/GitHub%25-orange">
+ 
+  <br>
+  
+  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
+  </a>
+</p>
 
-Saiba mais em [willianjusten.com.br](http://www.willianjusten.com.br)
+---
 
-Tálison Miguel Amancio
+## :rocket: Sobre o Repositório
 
-Outros cursos em: [#Url]
+Este é um repositório do curso de git e github iniciante que fiz.
+
+---
+
+## 📦️ Para copiar o projeto
+
+utilize os comandos:
+
+```bash
+  ❯ git clone https://github.com/Talison-Miguel/github-curse.git
+```
+
+---
+
